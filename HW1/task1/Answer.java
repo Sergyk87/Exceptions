@@ -1,21 +1,7 @@
 package HW1.task1;
 
-/*Реализуйте 3 метода, чтобы в каждом из них получить разные исключения.
-
-Метод arrayOutOfBoundsException - Ошибка, связанная с выходом за пределы массива
-
-Метод divisionByZero - Деление на 0
-
-Метод numberFormatException - Ошибка преобразования строки в число
-
-Важно: они не должны принимать никаких аргументов */
-
 class Answer {
-    // public static void main(String[] args) {
-    //     arrayOutOfBoundsException();
-    //     divisionByZero();
-    //     numberFormatException();
-    // }
+
     public static void arrayOutOfBoundsException() {
         // Напишите свое решение ниже
         int[] array = {1,2,3,4,5,6};
